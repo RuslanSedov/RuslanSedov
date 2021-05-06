@@ -4,14 +4,14 @@
 
 ### Languages and Tools:
 
-![HTML5](https://img.shields.io/badge/-HTML5-272727?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-272727?style=for-the-badge&logo=CSS3&logoColor=3071F0)
-![Sass](https://img.shields.io/badge/-SASS-272727?style=for-the-badge&logo=SASS)
-![JS](https://img.shields.io/badge/-JavaScript-272727?style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-272727?style=for-the-badge&logo=React)
-![GIT](https://img.shields.io/badge/-GIT-272727?style=for-the-badge&logo=GIT)
-![Markdown](https://img.shields.io/badge/-Markdown-272727?style=for-the-badge&logo=Markdown)
-![Figma](https://img.shields.io/badge/-Figma-272727?style=for-the-badge&logo=Figma&logoColor=7F30F0)
+[![HTML5](https://img.shields.io/badge/-HTML5-272727?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/-CSS3-272727?style=for-the-badge&logo=CSS3&logoColor=3071F0)](https://developer.mozilla.org/ru/docs/Web/CSS)
+[![Sass](https://img.shields.io/badge/-SASS-272727?style=for-the-badge&logo=SASS)](https://sass-lang.com/)
+[![JS](https://img.shields.io/badge/-JavaScript-272727?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-React-272727?style=for-the-badge&logo=React)](https://reactjs.org/)
+[![GIT](https://img.shields.io/badge/-GIT-272727?style=for-the-badge&logo=GIT)](https://git-scm.com/)
+[![Markdown](https://img.shields.io/badge/-Markdown-272727?style=for-the-badge&logo=Markdown)](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+[![Figma](https://img.shields.io/badge/-Figma-272727?style=for-the-badge&logo=Figma&logoColor=7F30F0)](https://www.figma.com/)
 
 ### Follow me:
 
