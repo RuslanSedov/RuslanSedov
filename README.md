@@ -1,4 +1,6 @@
-[![header](https://github.com/RuslanSedov/RuslanSedov/blob/main/Readme_Prew.jpg)](#)
+[![header](https://github.com/RuslanSedov/RuslanSedov/blob/main/ReadmeGif.gif)](#)
+
+### Hello! I'm front-end React developer.
 
 <!-- Обо мне
 
