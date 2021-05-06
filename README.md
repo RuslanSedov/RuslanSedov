@@ -19,6 +19,11 @@
 [![FaceBook](https://img.shields.io/badge/-FaceBook-272727?style=for-the-badge&logo=Facebook)](https://www.facebook.com/ruslan.sedov.9889)
 [![Twitter](https://img.shields.io/badge/-Twitter-272727?style=for-the-badge&logo=Twitter)](https://twitter.com/sedov_ruslan)
 
+### Work statistics:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanSedov&theme=react&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanSedov&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Обо мне
 
 Pet-проекты:
