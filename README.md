@@ -1,4 +1,4 @@
-# Hello! I'm front-end web developer (React).
+# Hello! I'm front-end web developer.
 
 [![header](https://github.com/RuslanSedov/RuslanSedov/blob/main/ReadmeGif.gif)](#)
 
